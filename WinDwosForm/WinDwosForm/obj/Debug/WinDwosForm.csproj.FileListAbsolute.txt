@@ -1,0 +1,24 @@
+C:\Users\Web App Develop .Net\Desktop\arman\.net\WinDwosForm\WinDwosForm\bin\Debug\WinDwosForm.exe.config
+C:\Users\Web App Develop .Net\Desktop\arman\.net\WinDwosForm\WinDwosForm\bin\Debug\WinDwosForm.exe
+C:\Users\Web App Develop .Net\Desktop\arman\.net\WinDwosForm\WinDwosForm\bin\Debug\WinDwosForm.pdb
+C:\Users\Web App Develop .Net\Desktop\arman\.net\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\arman\.net\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.Home.resources
+C:\Users\Web App Develop .Net\Desktop\arman\.net\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\arman\.net\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\arman\.net\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\arman\.net\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.exe
+C:\Users\Web App Develop .Net\Desktop\arman\.net\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.pdb
+C:\Users\Web App Develop .Net\Desktop\arman\.net\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.Deshboard.resources
+C:\Users\Web App Develop .Net\Desktop\arman\.net\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.Coffee.resources
+F:\BITM\Adnan\BITM-coffee-master\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.csprojAssemblyReference.cache
+F:\BITM\Adnan\BITM-coffee-master\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.Coffee.resources
+F:\BITM\Adnan\BITM-coffee-master\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.Deshboard.resources
+F:\BITM\Adnan\BITM-coffee-master\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.Home.resources
+F:\BITM\Adnan\BITM-coffee-master\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.Properties.Resources.resources
+F:\BITM\Adnan\BITM-coffee-master\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.csproj.GenerateResource.cache
+F:\BITM\Adnan\BITM-coffee-master\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.csproj.CoreCompileInputs.cache
+F:\BITM\Adnan\BITM-coffee-master\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.exe
+F:\BITM\Adnan\BITM-coffee-master\WinDwosForm\WinDwosForm\obj\Debug\WinDwosForm.pdb
+F:\BITM\Adnan\BITM-coffee-master\WinDwosForm\WinDwosForm\bin\Debug\WinDwosForm.exe.config
+F:\BITM\Adnan\BITM-coffee-master\WinDwosForm\WinDwosForm\bin\Debug\WinDwosForm.exe
+F:\BITM\Adnan\BITM-coffee-master\WinDwosForm\WinDwosForm\bin\Debug\WinDwosForm.pdb
